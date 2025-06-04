@@ -1,1 +1,0 @@
-# Kalkulator-kuadrat.py
